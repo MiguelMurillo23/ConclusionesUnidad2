@@ -2,7 +2,7 @@
 Conclusiones de los programas realizados en la Unidad 2.
 
 ## Practica 1.
-CODIGO P1.png
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/codigo1.png
 
 
 
