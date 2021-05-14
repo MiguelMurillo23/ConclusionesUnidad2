@@ -7,6 +7,9 @@ Conclusiones de los programas realizados en la Unidad 2.
 ## Ejecucion Practica1.
 ![](/codigo2.png)
 
+## Codigo Practica2.
+
+
 
 
 
